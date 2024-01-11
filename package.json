@@ -1,0 +1,22 @@
+{
+  "name": "isdevjs",
+  "version": "1.0.0",
+  "description": "check if environment is dev or prod",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunil-sharma-999/isdevjs.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "sunil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunil-sharma-999/isdevjs/issues"
+  },
+  "homepage": "https://github.com/sunil-sharma-999/isdevjs#readme"
+}
