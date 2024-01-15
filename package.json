@@ -1,6 +1,6 @@
 {
   "name": "isdevjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check if environment is dev or prod",
   "main": "dist/bundle.js",
   "scripts": {
