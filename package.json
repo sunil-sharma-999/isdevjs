@@ -12,7 +12,11 @@
     "url": "git+https://github.com/sunil-sharma-999/isdevjs.git"
   },
   "keywords": [
-    "javascript"
+    "javascript",
+    "node",
+    "nodejs",
+    "JS",
+    "ECMAscript"
   ],
   "author": "sunil",
   "license": "MIT",
