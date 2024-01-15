@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/sunil-sharma-999/isdevjs/issues"
   },
-  "homepage": "https://github.com/sunil-sharma-999/isdevjs#readme"
+  "homepage": "https://github.com/sunil-sharma-999/isdevjs#readme",
+  "devDependencies": {
+    "rollup": "^4.9.5"
+  }
 }
